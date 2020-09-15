@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/adeilh/OperationalizeAMLModel.svg?style=svg)](https://circleci.com/gh/adeilh/OperationalizeAMLModel)
+[![CircleCI](https://circleci.com/gh/AdeilH/OperationalizeAMLModel.svg?style=svg)](https://circleci.com/gh/AdeilH/OperationalizeAMLModel)
 
 ## Project Overview
 
